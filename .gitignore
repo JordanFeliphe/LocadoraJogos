@@ -1,0 +1,21 @@
+# VS Code
+.vscode/
+
+# Arquivos compilados
+bin/
+*.class
+
+# Logs
+*.log
+
+# Arquivos temporários do sistema ou editores
+*.tmp
+*.bak
+*.swp
+*.swo
+.DS_Store
+
+# Pacotes Java
+*.jar
+*.war
+*.ear
